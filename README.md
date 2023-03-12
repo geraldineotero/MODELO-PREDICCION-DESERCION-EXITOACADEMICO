@@ -1,5 +1,9 @@
 # MODELO-PREDICCION-DESERCION-EXITOACADEMICO
 MODELO DE PREDICCIÓN DE LA DESERCIÓN Y ÉXITO ACADÉMICO DE LOS ESTUDIANTES DE LA UNIVERSIDAD 
+MIEMBROS DEL GRUPO
+GERALDINE OTERO, INGENIERIA AMBIENTAL 
+SANTIAGO HERNAN MAFLA LONDOÑO, INGENIERIA AMBIENTAL
+KEVIN ESTEVEN HERNANDEZ LOPEZ, INGENIERIA INDUSTRIAL 
 
 DESCRIPCIÓN DEL PROBLEMA PREDICTIVO A RESOLVER.
 En el proyecto que se va a realizar para dar resolución a un problema seleccionamos la predicción de la deserción y éxito académico de los estudiantes de una universidad. El cual tiene múltiples variables y parámetros como lo vienen siendo factores socioeconómicos, relaciones interpersonales, cursos matriculados, cantidad de cursos, entre otros. Todo esto con el fin de dar con un resultado que nos provea con suficiente información como para tomar acciones y decisiones importantes sobre el problema de estudio.
