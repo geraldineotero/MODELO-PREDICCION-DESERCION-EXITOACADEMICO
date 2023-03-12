@@ -8,7 +8,7 @@ MODELO DE PREDICCIÓN DE LA DESERCIÓN Y ÉXITO ACADÉMICO DE LOS ESTUDIANTES DE
 
 -Kevin Esteven Hernández López, CC10171262528, Ingeniería Industrial 
 
-# DESCRIPCIÓN DEL PROBLEMA PREDICTIVO A RESOLVER.
+# DESCRIPCIÓN 
 En el proyecto que se va a realizar para dar resolución a un problema seleccionamos la predicción de la deserción y éxito académico de los estudiantes de una universidad.
 
 # DATASET UTILIZADO.
