@@ -17,4 +17,5 @@ https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-stu
 # VIDEOS
 Video segunda entrega:
 https://www.youtube.com/watch?v=bhj00XUNGHk&ab_channel=GERALDINEMICHELLEOTEROCRIOLLO
+
 Video entrega final:
