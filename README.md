@@ -15,4 +15,6 @@ Para realizar este modelo usamos un dataset de Kaggle de los estudiantes que tie
 https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention?resource=download
 
 # VIDEOS
+Video segunda entrega:
 https://www.youtube.com/watch?v=bhj00XUNGHk&ab_channel=GERALDINEMICHELLEOTEROCRIOLLO
+Video entrega final:
