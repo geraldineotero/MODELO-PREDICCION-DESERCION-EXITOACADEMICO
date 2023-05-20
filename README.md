@@ -4,8 +4,6 @@ MODELO DE PREDICCIÓN DE LA DESERCIÓN Y ÉXITO ACADÉMICO DE LOS ESTUDIANTES DE
 # MIEMBROS DEL GRUPO
 -Geraldine Michelle Otero Criollo, CC1003044718, Ingeniería Ambiental
 
--Santiago Hernán Mafla Londoño, CC, Ingeniería Ambiental
-
 -Kevin Esteven Hernández López, CC10171262528, Ingeniería Industrial 
 
 # DESCRIPCIÓN 
